@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|c:\\users\\doniz\\pictures\\trabalho_rosa\\webapiproducts\\webapiproducts\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|solutionrelative:webapiproducts\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|c:\\users\\doniz\\pictures\\trabalho_rosa\\webapiproducts\\webapiproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|solutionrelative:webapiproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|c:\\users\\doniz\\pictures\\trabalho_rosa\\webapiproducts\\webapiproducts\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|solutionrelative:webapiproducts\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|c:\\users\\doniz\\pictures\\trabalho_rosa\\webapiproducts\\webapiproducts\\controllers\\pizzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|solutionrelative:webapiproducts\\controllers\\pizzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|c:\\users\\doniz\\pictures\\trabalho_rosa\\webapiproducts\\webapiproducts\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|solutionrelative:webapiproducts\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|c:\\users\\doniz\\pictures\\trabalho_rosa\\webapiproducts\\webapiproducts\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|solutionrelative:webapiproducts\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|c:\\users\\doniz\\pictures\\trabalho_rosa\\webapiproducts\\webapiproducts\\migrations\\20240609174632_refactor_id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|solutionrelative:webapiproducts\\migrations\\20240609174632_refactor_id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|c:\\users\\doniz\\pictures\\trabalho_rosa\\webapiproducts\\webapiproducts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|solutionrelative:webapiproducts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|c:\\users\\doniz\\pictures\\trabalho_rosa\\webapiproducts\\webapiproducts\\webapiproducts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|solutionrelative:webapiproducts\\webapiproducts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|c:\\users\\doniz\\pictures\\trabalho_rosa\\webapiproducts\\webapiproducts\\migrations\\20240609173249_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71C96A5-9D16-4CE8-8D86-66DFF09C35BD}|WebApiProducts\\WebApiProducts.csproj|solutionrelative:webapiproducts\\migrations\\20240609173249_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240609173249_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Migrations\\20240609173249_Initial.cs",
+              "RelativeDocumentMoniker": "WebApiProducts\\Migrations\\20240609173249_Initial.cs",
+              "ToolTip": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Migrations\\20240609173249_Initial.cs",
+              "RelativeToolTip": "WebApiProducts\\Migrations\\20240609173249_Initial.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:32:50.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzasController.cs",
+              "DocumentMoniker": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Controllers\\PizzasController.cs",
+              "RelativeDocumentMoniker": "WebApiProducts\\Controllers\\PizzasController.cs",
+              "ToolTip": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Controllers\\PizzasController.cs",
+              "RelativeToolTip": "WebApiProducts\\Controllers\\PizzasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:53:13.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "WebApiProducts\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "WebApiProducts\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:44:04.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Models\\Clientes.cs",
+              "RelativeDocumentMoniker": "WebApiProducts\\Models\\Clientes.cs",
+              "ToolTip": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Models\\Clientes.cs",
+              "RelativeToolTip": "WebApiProducts\\Models\\Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:33:24.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "WebApiProducts\\Models\\Pizza.cs",
+              "ToolTip": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Models\\Pizza.cs",
+              "RelativeToolTip": "WebApiProducts\\Models\\Pizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:30:42.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiProducts\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "WebApiProducts\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:44:57.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiProducts\\Program.cs",
+              "ToolTip": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Program.cs",
+              "RelativeToolTip": "WebApiProducts\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:29:46.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240609174632_refactor_id.cs",
+              "DocumentMoniker": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Migrations\\20240609174632_refactor_id.cs",
+              "RelativeDocumentMoniker": "WebApiProducts\\Migrations\\20240609174632_refactor_id.cs",
+              "ToolTip": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\Migrations\\20240609174632_refactor_id.cs",
+              "RelativeToolTip": "WebApiProducts\\Migrations\\20240609174632_refactor_id.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:46:33.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiProducts\\appsettings.json",
+              "ToolTip": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\appsettings.json",
+              "RelativeToolTip": "WebApiProducts\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T17:21:49.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApiProducts.csproj",
+              "DocumentMoniker": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\WebApiProducts.csproj",
+              "RelativeDocumentMoniker": "WebApiProducts\\WebApiProducts.csproj",
+              "ToolTip": "C:\\Users\\doniz\\Pictures\\trabalho_rosa\\WebApiProducts\\WebApiProducts\\WebApiProducts.csproj",
+              "RelativeToolTip": "WebApiProducts\\WebApiProducts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T23:29:53.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
